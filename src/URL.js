@@ -1,0 +1,1 @@
+export const URL = 'https://app-vote-serv.herokuapp.com'

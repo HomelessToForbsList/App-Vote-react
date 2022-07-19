@@ -1,0 +1,51 @@
+
+.input{
+  width: 250px;
+  height: 34px;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 400;
+  border: 1px solid #B2F5EA;
+}
+
+.input_block{
+  padding: 10px;
+}
+
+.btn{
+  width: 200px;
+  height: 50px;
+  margin-right: 10px;
+  margin-top: 5px;
+  background-color: #B2F5EA;
+  color:rgb(0, 0, 0);
+  border: none;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.get_stat{
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 400;
+  height: 36px;
+  margin-left: 10px;
+  margin-top: 5px;
+  background-color: #63ebd4;
+  border: none;
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 0 10px;
+}
+
+.chart_wrapper{
+  width: 50%;
+  margin: 0 auto;
+}
+
+
+

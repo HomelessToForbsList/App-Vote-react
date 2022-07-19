@@ -1,0 +1,21 @@
+.vote{
+  max-width: 900px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1vw;
+}
+
+.number{
+  font-size: 2rem;
+  font-weight: 600;
+  border: 1px solid black;
+  background-color: rgb(128, 169, 245);
+  padding: 33%;
+  cursor: pointer;
+}
+
+.number:hover{
+  background-color: rgb(79, 229, 240);
+}
