@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/App-Vote-react/static/css/main.7914b745.css",
+    "main.js": "/App-Vote-react/static/js/main.90fc6d70.js",
+    "index.html": "/App-Vote-react/index.html",
+    "main.7914b745.css.map": "/App-Vote-react/static/css/main.7914b745.css.map",
+    "main.90fc6d70.js.map": "/App-Vote-react/static/js/main.90fc6d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7914b745.css",
+    "static/js/main.90fc6d70.js"
+  ]
+}
